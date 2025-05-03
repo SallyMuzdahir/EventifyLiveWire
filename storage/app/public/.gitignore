@@ -1,0 +1,4 @@
+# Keep the storage/app/public/images folder and its contents
+!/storage/app
+!/storage/app/public
+!/storage/app/public/images
